@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//René Ismael Fuentes Benítez (SMIS047221)
+//David Arnoldo Hernandez Gómez (SMIS051821)
+
 namespace persona_empleado_practica
 {
     public partial class Form1 : Form
